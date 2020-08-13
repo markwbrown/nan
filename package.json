@@ -29,5 +29,15 @@
     "tap": "~0.7.1",
     "xtend": "~4.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejs/nan/issues"
+  },
+  "homepage": "https://github.com/nodejs/nan#readme",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "test": "test"
+  },
+  "author": ""
 }
