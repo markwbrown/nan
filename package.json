@@ -1,5 +1,5 @@
 {
-  "name": "nan",
+  "name": "@brightproductions/nan",
   "version": "2.3.5",
   "description": "Native Abstractions for Node.js: C++ header for Node 0.8 -> 6 compatibility",
   "main": "include_dirs.js",
